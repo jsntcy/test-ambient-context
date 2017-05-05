@@ -25,11 +25,10 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/jsntcy/templates.docs.msft",
-      "branch": "yu-test",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false,
-  "package_version": "1.31.12"
+  "need_generate_pdf_url_template": false
 }
